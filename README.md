@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/niraj-pal-1a6535198/) 
 
 
-<img src="https://github.com/nirajj-pal/gif/blob/main/fcf7fd0c619bb87706533079240915f3.gif" alt="Girl in a jacket" width="500" height="500">
+<img src="https://github.com/nirajj-pal/gif/blob/main/fcf7fd0c619bb87706533079240915f3.gif" alt="Girl in a jacket" width="500" height="400">
 
 
 
